@@ -12,3 +12,6 @@ This is a list of development tools, and setups for those tools that I use for m
 
 **Editor** : Atom with beautifier
 
+#### Stack
+
+I use MERN stack a lot lately, i.e. Mongo db, Express, React and Nodejs. I have also worked with MEAN (Mongo, Express, Angular, Node) in the past.
