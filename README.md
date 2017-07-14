@@ -8,3 +8,7 @@ This is a list of development tools, and setups for those tools that I use for m
 
 **Browser** : Firefox with built in firefox dev tools and **firebug**, and also a screengrab add on.
 
+**Hosting** : Firebase/Gh-pages/Heroku/AWS
+
+**Editor** : Atom with beautifier
+
