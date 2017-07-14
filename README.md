@@ -6,5 +6,5 @@ This is a list of development tools, and setups for those tools that I use for m
 
 **Operating System** : Ubuntu/Xubuntu
 
-**Browser** : Firefox with built in firefox dev tools and **firebug**
+**Browser** : Firefox with built in firefox dev tools and **firebug**, and also a screengrab add on.
 
