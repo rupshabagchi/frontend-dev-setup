@@ -1,4 +1,4 @@
-# My Frontend Development setup
+# My Frontend Web Development setup
 
 This is a list of development tools, and setups for those tools that I use for my front end development work. This is not an exhaustive list by any means.
 
@@ -23,3 +23,11 @@ I use Jekyll - the static site generator based on Liquid. I have also tried Pris
 ### Task Runner
 
 I use Gulp to compile, minify, lint my code and more.
+
+### CSS Framework
+
+Bootstrap is my choice because it makes it so easy to design responsive pages. 
+
+###  JS Framework
+
+React
