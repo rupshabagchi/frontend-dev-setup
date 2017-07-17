@@ -15,3 +15,11 @@ This is a list of development tools, and setups for those tools that I use for m
 ### Stack
 
 I use MERN stack a lot lately, i.e. Mongo db, Express, React and Nodejs. I have also worked with MEAN (Mongo, Express, Angular, Node) in the past.
+
+### CMS
+
+I use Jekyll - the static site generator based on Liquid. I have also tried Prismic.io - the headless CMS and paired it up with some Bootstrap on the frontend.
+
+### Task Runner
+
+I use Gulp to compile, minify, lint my code and more.
