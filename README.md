@@ -31,3 +31,7 @@ Bootstrap is my choice because it makes it so easy to design responsive pages.
 ###  JS Framework
 
 React
+
+### Design
+
+Photoshop and Illustrator
