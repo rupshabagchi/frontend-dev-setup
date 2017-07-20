@@ -5,10 +5,10 @@ This is a list of development tools, and setups for those tools that I use for m
 ## Contents
 
 * [Basic Configurations](#config)
-  * Operating System
-  * Browser
-  * Hosting
-  * Editor
+  * [Operating System](#os)
+  * [Browser](#browser)
+  * [Hosting](#hosting)
+  * [Editor](#editor)
 * Stack
 * CMS
 * Task Runner
@@ -19,13 +19,13 @@ This is a list of development tools, and setups for those tools that I use for m
 
 ### <a name="config"></a> Basic configurations
 
-**Operating System** : Ubuntu/Xubuntu
+** <a name="os"></a>Operating System** : Ubuntu/Xubuntu
 
-**Browser** : Firefox with built in firefox dev tools and **firebug**, and also a screengrab add on. Also Chrome with chrome developer tools.
+** <a name="browser"></a>Browser** : Firefox with built in firefox dev tools and **firebug**, and also a screengrab add on. Also Chrome with chrome developer tools.
 
-**Hosting** : Firebase/Gh-pages/Heroku/AWS
+** <a name="hosting"></a>Hosting** : Firebase/Gh-pages/Heroku/AWS
 
-**Editor** : Atom with beautifier
+** <a name="editor"></a>Editor** : Atom with beautifier
 
 ### Stack
 
