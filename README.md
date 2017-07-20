@@ -4,10 +4,10 @@ This is a list of development tools, and setups for those tools that I use for m
 
 ## Contents
 
-*[Basic Configurations]
-  *[Operating System]
-  *[Browser]
-  *[Hosting]
+1. Basic Configurations
+  * Operating System
+  * Browser
+  * Hosting
 
 
 ### <a name="config"></a> Basic configurations
