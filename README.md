@@ -4,13 +4,17 @@ This is a list of development tools, and setups for those tools that I use for m
 
 ## Contents
 
-* Basic Configurations
+* [Basic Configurations](#config)
   * Operating System
   * Browser
   * Hosting
   * Editor
 * Stack
 * CMS
+* Task Runner
+* CSS Framework and Preprocessor
+* JS Framework
+* Design Tools
 
 
 ### <a name="config"></a> Basic configurations
