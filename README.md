@@ -13,8 +13,8 @@ This is a list of development tools, and setups for those tools that I use for m
 * [CMS](#cms)
 * [Task Runner](#task)
 * [CSS Framework and Preprocessor](#css)
-* [JS Framework](#js)
-* [TDD](#Tdd)
+* [Package Management](#js)
+* [TDD and Continuous Integration](#Tdd)
 * [Design Tools](#des)
 
 
@@ -27,7 +27,7 @@ Ubuntu/Xubuntu
 Firefox with built in firefox dev tools and **firebug**, and also a screengrab add on. Also Chrome with chrome developer tools.
 
 #### <a name="hosting"></a> Hosting : 
-Firebase/Gh-pages/Heroku/AWS
+Firebase/Gh-pages/Heroku/Amazon S3
 
 #### <a name="editor"></a> Editor : 
 Atom with beautifier
