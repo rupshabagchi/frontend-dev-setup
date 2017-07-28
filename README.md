@@ -34,7 +34,7 @@ Atom with beautifier
 
 ### <a name="stack"></a>Stack
 
-I use MERN stack a lot lately, i.e. Mongo db, Express, React and Nodejs. I have also worked with MEAN (Mongo, Express, Angular, Node) in the past.
+I use MERN stack a lot lately, i.e. Mongo db, Express, React and Nodejs. I have also worked with MEAN (Mongo, Express, Angular, Node) and SPRINGin the past.
 
 ### <a name="cms"></a>CMS
 
@@ -54,6 +54,8 @@ SASS/LESS
 React
 
 ### <a name="Tdd"></a> TDD
+Linting: EsLint
+Testing: Jest+Enzyme
 
 ### <a name="des"></a>Design
 
