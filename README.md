@@ -34,7 +34,7 @@ Atom with beautifier
 
 ### <a name="stack"></a>Stack
 
-I use MERN stack a lot lately, i.e. Mongo db, Express, React and Nodejs. I have also worked with MEAN (Mongo, Express, Angular, Node) and SPRINGin the past.
+I use **MERN** stack a lot lately, i.e. Mongo db, Express, React and Nodejs. I have also worked with MEAN (Mongo, Express, Angular, Node) and SPRING MVC in the past. To handle state management issues with React, I use **Redux**. 
 
 ### <a name="cms"></a>CMS
 
@@ -46,16 +46,14 @@ I use Gulp to compile, minify, lint my code and more.
 
 ### <a name="css"></a>CSS Framework and Preprocessor
 
-Bootstrap is my choice because it makes it so easy to design responsive pages. 
-SASS/LESS
+Bootstrap is my choice because it makes it so easy to design responsive pages. **SASS** is my choice of preprocessor, but I have also used LESS in the past.
 
-###  <a name="js"></a>JS Framework
+###  <a name="js"></a>Package management
 
-React
+I use **Yarn** because it is much faster, but NPM is also pretty good.
 
-### <a name="Tdd"></a> TDD
-Linting: EsLint
-Testing: Jest+Enzyme
+### <a name="Tdd"></a> TDD and CI
+ I use **Jest and Enzyme** for testing, and **Travis** for continuous integration.
 
 ### <a name="des"></a>Design
 
